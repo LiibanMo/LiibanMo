@@ -3,13 +3,7 @@
 
 - 🔭 I’m currently working on **a personal webpage.**
 
-- 🌱 I’m currently learning **HTML/CSS.**
-
-- 🤝 I’m looking for help with **in developing a career in the tech field.**
-
-- 💬 Ask me about **Statistics and perhaps Linear Algebra and Calculus.**
-
-- ⚡ Fun fact **I'm thinking of becoming a Software Developer.**
+- 🤝 I’m looking to **develop a career in Machine Learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
