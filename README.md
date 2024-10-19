@@ -1,7 +1,9 @@
-<h1 align="center">Hello, I'm Liiban</h1>
+<h1 align="center">Hello, I'm Liiban.</h1>
 <h3 align="center">A Mathematics Undergraduate at Imperial College London</h3>
 
-- 🌱 I’m currently learning **JAX, PyTorch, C++ and CUDA.**
+- 🔭 I’m currently working on **a Tensor class.**
+
+- 🌱 I’m currently learning **applied and theoretical Mathematics and C++/CUDA**
 
 - 🤝 I’m looking to **develop a career in Machine Learning Engineering and Research.**
 
@@ -11,4 +13,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://jax.readthedocs.io/en/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" alt="jax" width="50" height="40"> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
