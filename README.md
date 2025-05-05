@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Liiban.</h1>
 <h3 align="center">MSci Mathematics Undergraduate @ Imperial</h3>
 
-- 🔭 I’m currently working on **a PyTorch equivalent Deep Learning package.**
+- 🔭 I’m currently working on **a PyTorch-equivalent Deep Learning package.**
 
 - I’m currently learning **applied and theoretical Mathematics alongside with C/C++ and CUDA.**
 
