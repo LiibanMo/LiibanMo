@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a PyTorch-equivalent Deep Learning package called **JetDL**.
 
-- I’m currently learning **applied and theoretical Mathematics alongside with C/C++ and CUDA.**
+- I’m currently learning **applied and theoretical Mathematics alongside with C/C++.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
