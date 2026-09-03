@@ -1,4 +1,4 @@
-<h1 align="center">Liiban Mohamud.</h1>
+<h1 align="center">Liiban Mohamud</h1>
 <h3 align="center">MSci Mathematics Undergraduate @ Imperial</h3>
 
 <h3 align="left">Connect with me:</h3>
